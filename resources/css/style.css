@@ -16,3 +16,24 @@ h3 {
     text-decoration: underline;
 
 }
+
+#video {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+#video-caption {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-decoration: none;
+}
+
+h4 {
+    text-align: right;
+    color: gray;
+    font-size: 20px;
+}
+#camp {
+    padding-bottom: 20px;
+}
